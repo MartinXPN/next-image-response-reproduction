@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Steps to reproduce the issue
+1. Run the project with `npm run dev`
+2. Open the browser and go to `http://localhost:3000`
+3. Open the generated `opengraph` path
+4. See that the image is not generated properly
+
+----
+
 ## Getting Started
 
 First, run the development server:
